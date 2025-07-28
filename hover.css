@@ -1,0 +1,20 @@
+
+.mCard{
+    margin-left: 40vw;
+    width: 200px;
+    height: 160px;
+    border: 2px solid black;
+    text-align: center;
+}
+ul{
+    text-align: left;
+}
+.mCard:hover{
+    transform: scale(1.05);
+    transition: all 0.90s ease;
+    background-color: burlywood;
+}
+/*.mCard:hover {
+  transform: scale(1.05) rotate(2deg);
+  transition: transform 0.3s ease;
+}*/
