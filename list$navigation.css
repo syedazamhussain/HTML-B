@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+.ul1{
+    list-style-type: none;
+    padding: 0;
+}
+.ul2 li::before{
+    content: "🔥";
+    margin-right: 8px;
+}
+.ul3{
+    list-style-type: num;
+
+}
+.ul3 li::before{
+    content:"➡️";
+}
+.ul3 li::after{
+    content:"👌";
+}
