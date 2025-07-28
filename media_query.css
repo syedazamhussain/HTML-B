@@ -1,0 +1,14 @@
+nav{
+    height: 5vh;
+    background-color: grey;
+    display: flex;
+    gap: 2rem; 
+}
+@media (max-width:768px){
+    nav{
+        flex-direction: column;
+        background-color: burlywood;
+        height: 25vh;
+        width: 10vw;
+    }
+}
