@@ -1,0 +1,23 @@
+button {
+    height: 40px;
+}
+
+.ok1 {
+
+    background: linear-gradient(to left, #ff6b6b, #f9ca24);
+}
+
+.ok2 {
+    background: linear-gradient(to right, #1d9153, #edac4a);
+}
+
+.ok3 {
+    background: linear-gradient(to top, #91551d, #4f4aed);
+}
+
+.ok4 {
+    background: linear-gradient(to bottom, #40e5f1, #edac4a);
+}
+.ok5{
+    background: linear-gradient(#ff6b6b, #f9ca24);
+}
