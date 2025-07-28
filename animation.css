@@ -1,0 +1,15 @@
+@keyframes slideIn {
+  from { transform: translateX(-100px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+.popup {
+  animation: slideIn 2s ease forwards;
+}
+/*Only Box Design*/
+.popup{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: rgb(73, 172, 172);
+    text-align: center;
+}
