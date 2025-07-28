@@ -1,0 +1,29 @@
+.options{
+    display: grid;
+    grid-template-columns: repeat( 3, 4fr);
+    gap: 30px;
+    width: 90vw;
+}
+.opt{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;    
+}
+.opt1{
+    background-color: aquamarine;
+    border: 2px dotted black;
+}
+.opt2{
+    background-color: darkseagreen;
+}
+.opt3{
+    background-color: hotpink;
+    border: 2px dotted black;
+}
+.opt4{
+    background-color: cornsilk;
+}
+.opt5{
+    background-color: slategray;
+    border: 2px dotted black;
+}
